@@ -15,13 +15,13 @@
 
 ## 排序算法
 
-1. [冒泡排序：BubbleSort]()
-1. [选择排序：SelectionSort]()
-1. [插入排序：InsertionSort]()
-1. [希尔排序：ShellSort]()
-1. [归并排序：MergeSort]()
-1. [堆排序：HeapSort]()
-1. [快速排序：QuickSort]()
+1. [冒泡排序 BubbleSort]()
+1. [选择排序 SelectionSort]()
+1. [插入排序 InsertionSort]()
+1. [希尔排序 ShellSort]()
+1. [归并排序 MergeSort]()
+1. [堆排序 HeapSort]()
+1. [快速排序 QuickSort]()
 
 ## 经典题型实现
 
